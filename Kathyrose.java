@@ -9,5 +9,6 @@ public class git{
        System.out.println("Hello Git");
        System.out.println("I'm Kathyrose~");
        System.out.println("Hello GitHub");
+       System.out.println("add a dev branch");
    }
 }
