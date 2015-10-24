@@ -10,6 +10,10 @@ public class git{
        System.out.println("I'm Kathyrose~");
        System.out.println("Hello GitHub");
        System.out.println("add a dev branch");
+<<<<<<< HEAD
        System.out.println("master branch");
+=======
+       System.out.println("aha~");
+>>>>>>> featurel
    }
 }
